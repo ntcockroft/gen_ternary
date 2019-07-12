@@ -17,11 +17,11 @@ http://zdock.umassmed.edu/software/
 
 A list of the python libraries used is contained in the "environment.yml" file.
 The python3 version of miniconda can be used to automatically set up an
-environment with this libraries if desired. Miniconda can be obtained from:
+environment with these libraries if desired. Miniconda can be obtained from:
 
 https://docs.conda.io/en/latest/miniconda.html
 
-After downloading and navigating to this repository the enivronment can be
+After downloading and navigating to this repository, the enivronment can be
 built by using the command line or the now installed Anaconda Prompt. 
 
 In the command line or prompt type:
